@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1542320655 source:c:\users\mrpython\dropbox\school stuff\ces\fall 18\tces 203 programming\ccodes\studentprojecth\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1542320655 c:\users\mrpython\dropbox\school stuff\ces\fall 18\tces 203 programming\ccodes\studentprojecth\student.h
+
+1542322094 source:c:\users\mrpython\dropbox\school stuff\ces\fall 18\tces 203 programming\ccodes\studentprojecth\studenttest.cpp
+	"Student.h"
+	<iostream>
+
+1542648645 source:c:\users\mr python\dropbox\school stuff\ces\fall 18\tces 203 programming\ccodes\studentprojecth\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1542648649 c:\users\mr python\dropbox\school stuff\ces\fall 18\tces 203 programming\ccodes\studentprojecth\student.h
+	<string>
+
+1544505561 source:c:\users\mr python\dropbox\school stuff\ces\fall 18\tces 203 programming\ccodes\studentprojecth\studenttest.cpp
+	"Student.h"
+	<iostream>
+
